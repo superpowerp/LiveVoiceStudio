@@ -58,3 +58,4 @@ LiveVoiceStudio จากที่บ้านเฮาเอง
 - Blacklist
 
 ## โครงสร้างโปรเจกต์
+livevoice_studio/ ├── index.php ├── login.php ├── dashboard.php ├── overlay.php ├── control.php ├── config/ │ ├── config.php │ ├── database.php │ └── session.php ├── api/ │ ├── youtube.php │ ├── tts.php │ ├── chat.php │ ├── translate.php │ └── settings.php ├── admin/ │ ├── users.php │ ├── themes.php │ ├── voices.php │ └── logs.php ├── assets/ │ ├── css/ │ ├── js/ │ ├── img/ │ └── sounds/ ├── uploads/ ├── logs/ └── database/ └── livevoice.sql
